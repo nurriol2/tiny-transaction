@@ -87,13 +87,13 @@ $ ./txny
 Tiny Transaction opens to a terminal user interface (TUI) showing a basic
 welcome screen.
 
-![A wireframe diagram showing a terminal user interface for the welcome screen of Tiny Transaction simulator.](images/welcome-screen-wireframe.png).
+![A wireframe diagram showing a terminal user interface for the welcome screen of Tiny Transaction simulator.](images/welcome-screen-wireframe.png)
 
 The most important option on this screen is the `(P)lay` option.
 Press `p` to start a new simulation.
 Follow the on-screen instructions to launch the trading interface.
 
-![A wireframe diagram showing a trading interface for a new simulation](images/wireframe/trading-interface-start-new-simulation.png).
+![A wireframe diagram showing a trading interface for a new simulation](images/wireframe/trading-interface-start-new-simulation.png)
 
 The simulation will be immediately paused when the trading interface opens for
 the first time.
@@ -106,7 +106,7 @@ It always shows the currently available controls.
 The figure below summarizes the main parts of the trading interface, after a
 simulation has started running.
 
-![A wireframe diagram showing the trading interface during a simulation, with helpful commentary.](images/wireframe/example-trading-interface.png).
+![A wireframe diagram showing the trading interface during a simulation, with helpful commentary.](images/wireframe/example-trading-interface.png)
 
 ### History
 
