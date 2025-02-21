@@ -87,7 +87,7 @@ $ ./txny
 Tiny Transaction opens to a terminal user interface (TUI) showing a basic
 welcome screen.
 
-![A wireframe diagram showing a terminal user interface for the welcome screen of Tiny Transaction simulator.](images/wireframe/welcome-screen-wireframe.png)
+![A wireframe diagram showing a terminal user interface for the welcome screen of Tiny Transaction simulator.](images/wireframe/welcome-screen.png)
 
 The most important option on this screen is the `(P)lay` option.
 Press `p` to start a new simulation.
