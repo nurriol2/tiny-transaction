@@ -31,7 +31,7 @@ for a card game like PTCGP, too.
 
 To demonstrate how, I built Tiny Transaction.
 
-Learn more at [Elliot's Maker Space](https://elliotsmaker.space/2025-02-18-tiny-transaction-dev-log-0).
+Learn more at [Elliot's Maker Space](https://elliotsmaker.space/2025-02-18-welcome-tiny-transaction).
 
 ## Installation
 
